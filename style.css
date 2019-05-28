@@ -1,4 +1,6 @@
 
+
+
 nav {
   background-color: #4aaaa5;
   font-size: 25px;
@@ -13,3 +15,32 @@ button {
   margin-right: 698px;
 }
 
+.main-img {
+  height: auto;
+  width: 200px;
+}
+p {
+    overflow: hidden;
+}
+
+h1, h2, h3, p {
+  margin-bottom: 20px;
+}
+
+* {
+  box-sizing: border-box;
+}
+user agent stylesheet
+p {
+  display: block;
+  margin-block-start: 1em;
+  margin-block-end: 1em;
+  margin-inline-start: 0px;
+  margin-inline-end: 0px;
+}
+body {
+  font-family: Arial, "Helvetica Neue", Helvetica, sans-serif;
+  font-size: 18px;
+  line-height: 34px;
+  color: #777777;
+  background: 
